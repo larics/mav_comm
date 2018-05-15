@@ -44,6 +44,7 @@ static constexpr char COMMAND_POSE[] = "command/pose";
 static constexpr char COMMAND_GPS_WAYPOINT[] = "command/gps_waypoint";
 
 static constexpr char POSE[] = "pose";
+static constexpr char VELOCITY_RELATIVE[] = "velocity_relative";
 static constexpr char POSE_WITH_COVARIANCE[] = "pose_with_covariance";
 static constexpr char TRANSFORM[] = "transform";
 static constexpr char ODOMETRY[] = "odometry";
